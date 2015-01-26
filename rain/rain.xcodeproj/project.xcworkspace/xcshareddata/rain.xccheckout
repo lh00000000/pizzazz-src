@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6507DA62-0D1B-492B-8FB6-BB7192B77CB5</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>05BAE0F4E0CF7618B22A60DCACC3B3DC740558C7</key>
+		<string>https://github.com/memo/ofxMSAObjCPointer</string>
+		<key>6E35C72F83598061BA884C70E5F0DF607D045CF3</key>
+		<string>https://github.com/memo/ofxMSAPhysics</string>
+		<key>CB1CF109CA3A77AF931BD92C92B3F38F4A501645</key>
+		<string>https://github.com/memo/ofxMSACore</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>05BAE0F4E0CF7618B22A60DCACC3B3DC740558C7</key>
+		<string>ofxMSAObjCPointer/</string>
+		<key>6E35C72F83598061BA884C70E5F0DF607D045CF3</key>
+		<string>ofxMSAPhysics/</string>
+		<key>CB1CF109CA3A77AF931BD92C92B3F38F4A501645</key>
+		<string>ofxMSACore/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/memo/ofxMSAObjCPointer</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>05BAE0F4E0CF7618B22A60DCACC3B3DC740558C7</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB1CF109CA3A77AF931BD92C92B3F38F4A501645</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMSACore</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>05BAE0F4E0CF7618B22A60DCACC3B3DC740558C7</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMSAObjCPointer</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E35C72F83598061BA884C70E5F0DF607D045CF3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMSAPhysics</string>
+		</dict>
+	</array>
+</dict>
+</plist>
